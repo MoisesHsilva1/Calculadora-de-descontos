@@ -13,9 +13,7 @@ function validarCampo() {
      Resultado.textContent = 'O preço final com desconto é: ' + calculo
     }
 return true;
-
 }
-
 document.querySelector('.Button-Calcular').addEventListener('click', function(){
     validarCampo() 
 });
