@@ -16,3 +16,13 @@
 
 <h2>Projeto em ação:</h2>
 
+https://github.com/MoisesHsilva1/Calculadora-de-descontos/assets/142702205/ced25cd5-13c0-4ae5-bd46-4fa33a57d19d
+
+
+# Autor
+
+ [<img loading="lazy" src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/b1a9e6e2-60b0-4ce6-ba81-edcddd954366" width=115><br><sub>Moisés Henrique</sub>](https://github.com/MoisesHsilva1) 
+
+ # Contato 
+
+ https://www.linkedin.com/in/mois%C3%A9shenrique/
