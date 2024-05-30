@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arial";
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color:rgb(123, 94, 134);
+}
+.Titulo {
+    color: antiquewhite;
+}
+div.container{
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+div.container{
+    font-size: 22px;
+    color: rgb(60,60,60);
+}
+
+div.container form{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+div.container form input{
+    font-size: 16px;
+    padding: 10px;
+    text-align: right;
+    color: rgb(80,80,80);
+    max-width: 100px;
+    margin: 0 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(150,150,150);
+    outline: 0;
+    transition: border 0.5s;
+}
+
+div.container form input:hover,
+div.container form input:focus,
+div.container form input:valid{
+    border: 1px solid rgb(145, 60, 179);
+}
+
+div.container form 
+input::-webkit-inner-spin-button{
+    display: none;
+}
+
+div.container div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.Button-Calcular{
+    padding: 10px 15px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+div.container div span{
+    margin-left: 15px;
+}
+
