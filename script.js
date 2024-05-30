@@ -6,7 +6,9 @@ function validarCampo() {
     if(Valor.value == '' || Desconto.value == '') {
         window.alert('Digite um valor para calcular');
         return false;
-    } 
+    } else {
+        
+    }
     return true;
 }
 
